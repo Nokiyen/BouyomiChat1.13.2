@@ -1,0 +1,15 @@
+{
+  "bouyomichat.version.notify" : "[BouyomiChat] New version \"%s\" is available now!",
+  "bouyomichat.command.help" : "[BouyomiChat] This is a command of BouyomiChat. For more details, see ReadMe.",
+  "bouyomichat.command.pause" : "[BouyomiChat] paused reading.",
+  "bouyomichat.command.resume" : "[BouyomiChat] resumed reading.",
+  "bouyomichat.command.skip" : "[BouyomiChat] skipped reading.",
+  "bouyomichat.command.clear" : "[BouyomiChat] cleared reading.",
+  "bouyomichat.command.reload" : "[BouyomiChat] reloaded config.",
+  "bouyomichat.command.educate" : "[BouyomiChat] educated the word.",
+  "bouyomichat.command.forget" : "[BouyomiChat] forgot the word.",
+  "bouyomichat.command.on" : "[BouyomiChat] turned on reading.",
+  "bouyomichat.command.off" : "[BouyomiChat] turned off reading.",
+  "bouyomichat.command.exec" : "[BouyomiChat] executed Bouyomi Chan.",
+  "bouyomichat.command.execfail" : "[BouyomiChat] failed to execute Bouyomi Chan."
+}

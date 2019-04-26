@@ -1,0 +1,19 @@
+version = '2.7.0'
+group = 'com.nokiyen.bouyomichat'
+archivesBaseName = 'BouyomiChat'
+
+jar {
+    manifest {
+        attributes([
+            "Specification-Title": "bouyomichat",
+            "Specification-Vendor": "nokiyen",
+            "Specification-Version": "2.7.0", // We are version 1 of ourselves
+            "Implementation-Title": project.name,
+            "Implementation-Version": "${version}",
+            "Implementation-Vendor" :"nokiyen",
+            "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
+            "FMLCorePlugin" : "noki.bouyomichat.asm.ASMLoadingPlugin", 
+            "FMLCorePluginContainsFMLMod" : true
+        ])
+    }
+}

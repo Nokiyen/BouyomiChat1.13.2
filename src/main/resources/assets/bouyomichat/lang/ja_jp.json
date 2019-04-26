@@ -1,0 +1,15 @@
+{
+  "bouyomichat.version.notify" : "[BouyomiChat] 新しいバージョン \"%s\" がご利用できます。",
+  "bouyomichat.command.help" : "[BouyomiChat] BouyomiChatのコマンドです。詳しくはReadMeをお読みください。",
+  "bouyomichat.command.pause" : "[BouyomiChat] 読み上げを中断しました。",
+  "bouyomichat.command.resume" : "[BouyomiChat] 読み上げを再開しました。",
+  "bouyomichat.command.skip" : "[BouyomiChat] 読み上げをスキップしました。",
+  "bouyomichat.command.clear" : "[BouyomiChat] 読み上げを中止しました。",
+  "bouyomichat.command.reload" : "[BouyomiChat] コンフィグをリロードしました。",
+  "bouyomichat.command.educate" : "[BouyomiChat] 単語を覚えました。",
+  "bouyomichat.command.forget" : "[BouyomiChat] 単語を忘れました。",
+  "bouyomichat.command.on" : "[BouyomiChat] 読み上げ機能をオンにしました。",
+  "bouyomichat.command.off" : "[BouyomiChat] 読み上げ機能をオフにしました。",
+  "bouyomichat.command.exec" : "[BouyomiChat] 棒読みちゃんを起動しました。",
+  "bouyomichat.command.execfail" : "[BouyomiChat] 棒読みちゃんを起動できませんでした。"
+}
